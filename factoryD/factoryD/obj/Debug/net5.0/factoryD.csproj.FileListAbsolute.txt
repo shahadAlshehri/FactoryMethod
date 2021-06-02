@@ -1,0 +1,16 @@
+C:\Users\Shaha\source\repos\factoryD\factoryD\bin\Debug\net5.0\factoryD.exe
+C:\Users\Shaha\source\repos\factoryD\factoryD\bin\Debug\net5.0\factoryD.deps.json
+C:\Users\Shaha\source\repos\factoryD\factoryD\bin\Debug\net5.0\factoryD.runtimeconfig.json
+C:\Users\Shaha\source\repos\factoryD\factoryD\bin\Debug\net5.0\factoryD.runtimeconfig.dev.json
+C:\Users\Shaha\source\repos\factoryD\factoryD\bin\Debug\net5.0\factoryD.dll
+C:\Users\Shaha\source\repos\factoryD\factoryD\bin\Debug\net5.0\ref\factoryD.dll
+C:\Users\Shaha\source\repos\factoryD\factoryD\bin\Debug\net5.0\factoryD.pdb
+C:\Users\Shaha\source\repos\factoryD\factoryD\obj\Debug\net5.0\factoryD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaha\source\repos\factoryD\factoryD\obj\Debug\net5.0\factoryD.AssemblyInfoInputs.cache
+C:\Users\Shaha\source\repos\factoryD\factoryD\obj\Debug\net5.0\factoryD.AssemblyInfo.cs
+C:\Users\Shaha\source\repos\factoryD\factoryD\obj\Debug\net5.0\factoryD.csproj.CoreCompileInputs.cache
+C:\Users\Shaha\source\repos\factoryD\factoryD\obj\Debug\net5.0\factoryD.dll
+C:\Users\Shaha\source\repos\factoryD\factoryD\obj\Debug\net5.0\ref\factoryD.dll
+C:\Users\Shaha\source\repos\factoryD\factoryD\obj\Debug\net5.0\factoryD.pdb
+C:\Users\Shaha\source\repos\factoryD\factoryD\obj\Debug\net5.0\factoryD.genruntimeconfig.cache
+C:\Users\Shaha\source\repos\factoryD\factoryD\obj\Debug\net5.0\factoryD.csproj.AssemblyReference.cache
